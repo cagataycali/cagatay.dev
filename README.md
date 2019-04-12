@@ -11,7 +11,9 @@ description: >-
 
 Yazım hatalarımı, eksik/yanlış gördüğün kısımları PR olarak gönderebilir, motivasyonumu desteklemek için Patreon'dan bağış yapabilirsin.
 
-[https://www.patreon.com/cagataycali](https://www.patreon.com/cagataycali)
+{% embed url="https://www.patreon.com/cagataycali" %}
 
-
+{% hint style="info" %}
+Yazılım geliştirmeyi [Twitch](https://www.twitch.tv/cagataydev) platformu üzerinde haftanın üç günü seninle beraber öğrenebiliriz, beklerim!
+{% endhint %}
 

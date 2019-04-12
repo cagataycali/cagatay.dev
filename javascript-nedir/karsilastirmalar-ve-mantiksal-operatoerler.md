@@ -1,0 +1,2 @@
+# Karşılaştırmalar Ve Mantıksal Operatörler
+
