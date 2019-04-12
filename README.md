@@ -13,7 +13,11 @@ Yazım hatalarımı, eksik/yanlış gördüğün kısımları PR olarak göndere
 
 {% embed url="https://www.patreon.com/cagataycali" %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 Yazılım geliştirmeyi [Twitch](https://www.twitch.tv/cagataydev) platformu üzerinde haftanın üç günü seninle beraber öğrenebiliriz, beklerim!
 {% endhint %}
+
+## Hedefimiz;
+
+Temel programlama becerileri, algoritmalar, veri yapıları, kodun kalitesi, kodun testi ve standardizasyonu konusunda en temelden adım adım yazılı ve görsel olarak desteklenmiş bir dokümantasyon aracılığıyla kendini yetiştirebilecek, programlama konusunda eksiklerini bu çevrimiçi kaynak aracılığı ile giderebileceksin. Bu süreçte gördüğün eksikleri GitHub üzerinden gönderebilir, sen de katkı sağlayabilirsin.
 
