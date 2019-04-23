@@ -34,3 +34,12 @@
     * [Tree 🥚](programlama-temelleri/veri-yapilari/tree.md)
     * [Graph 🥚](programlama-temelleri/veri-yapilari/graph.md)
 
+## Kullanım Alanları
+
+* [Frontend](kullanim-alanlari/frontend.md)
+* [Backend](kullanim-alanlari/backend.md)
+* [iOT](kullanim-alanlari/iot.md)
+* [Robotik](kullanim-alanlari/robotik.md)
+* [Mobil](kullanim-alanlari/mobil.md)
+* [Masaüstü](kullanim-alanlari/masauestue.md)
+
