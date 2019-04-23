@@ -4,7 +4,7 @@ description: >-
   öğreneceğiz.
 ---
 
-# Yorum Satırları
+# Yorum Satırları 🐥
 
 ## Tek Satırlık Yorumlar
 

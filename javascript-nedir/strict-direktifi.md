@@ -1,2 +1,2 @@
-# Strict Direktifi
+# Strict Direktifi 🥚
 

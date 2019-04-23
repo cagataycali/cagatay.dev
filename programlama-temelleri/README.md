@@ -1,2 +1,2 @@
-# Programlama Temelleri
+# Programlama Temelleri 🥚
 

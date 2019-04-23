@@ -1,2 +1,2 @@
-# Fonksiyonlar
+# Fonksiyonlar 🥚
 

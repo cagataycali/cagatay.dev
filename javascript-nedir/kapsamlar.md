@@ -1,2 +1,2 @@
-# Kapsamlar
+# Kapsamlar 🥚
 

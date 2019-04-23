@@ -4,7 +4,7 @@ description: >-
   kullanımlarını göreceğiz.
 ---
 
-# Değişkenler
+# Değişkenler 🐣
 
 ```javascript
 var age = 18

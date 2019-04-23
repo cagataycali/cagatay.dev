@@ -1,2 +1,2 @@
-# Koşullu İfadeler
+# Koşullu İfadeler 🥚
 

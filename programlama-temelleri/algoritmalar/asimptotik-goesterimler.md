@@ -1,2 +1,2 @@
-# Asimptotik Gösterimler
+# Asimptotik Gösterimler 🥚
 

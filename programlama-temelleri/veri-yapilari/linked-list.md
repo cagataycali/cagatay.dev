@@ -1,2 +1,2 @@
-# Linked List
+# Linked List 🥚
 

@@ -1,2 +1,2 @@
-# Algoritmalar
+# Algoritmalar 🥚
 

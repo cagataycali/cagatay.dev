@@ -5,7 +5,7 @@ description: >-
   kazanacağız.
 ---
 
-# JavaScript ile Programlamaya Giriş
+# JavaScript ile Programlamaya Giriş 🐣
 
 ## Nasıl destek olabilirsin?
 
@@ -20,4 +20,14 @@ Yazılım geliştirmeyi [Twitch](https://www.twitch.tv/cagataydev) platformu üz
 ## Hedefimiz;
 
 Temel programlama becerileri, algoritmalar, veri yapıları, kodun kalitesi, kodun testi ve standardizasyonu konusunda en temelden adım adım yazılı ve görsel olarak desteklenmiş bir dokümantasyon aracılığıyla kendini yetiştirebilecek, programlama konusunda eksiklerini bu çevrimiçi kaynak aracılığı ile giderebileceksin. Bu süreçte gördüğün eksikleri GitHub üzerinden gönderebilir, sen de katkı sağlayabilirsin.
+
+## Semboller
+
+Kitap içeriğinde başlıkların yanında civciv emojileri mevcut, bu emojiler şu anlamlara gelmektedir.
+
+| 🥚 | 🐣 | 🐥 |
+| :--- | :--- | :--- |
+| İçerik yok | Yapım aşamasında | Tamamlandı |
+
+
 

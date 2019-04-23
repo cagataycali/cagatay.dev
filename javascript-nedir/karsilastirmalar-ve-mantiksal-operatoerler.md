@@ -1,2 +1,2 @@
-# Karşılaştırmalar Ve Mantıksal Operatörler
+# Karşılaştırmalar Ve Mantıksal Operatörler 🥚
 

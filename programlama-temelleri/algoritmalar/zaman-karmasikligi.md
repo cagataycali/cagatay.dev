@@ -1,2 +1,2 @@
-# Zaman Karmaşıklığı
+# Zaman Karmaşıklığı 🥚
 

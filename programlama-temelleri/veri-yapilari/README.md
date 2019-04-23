@@ -1,2 +1,2 @@
-# Veri Yapıları
+# Veri Yapıları 🥚
 

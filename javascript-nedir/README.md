@@ -4,7 +4,7 @@ description: >-
   programlama dilidir. (Wikipedia)
 ---
 
-# JavaScript Nedir?
+# JavaScript Nedir? 🥚
 
 ```javascript
 // TODO: @cagataycali

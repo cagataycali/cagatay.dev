@@ -1,2 +1,2 @@
-# Veri Tipleri
+# Veri Tipleri 🥚
 

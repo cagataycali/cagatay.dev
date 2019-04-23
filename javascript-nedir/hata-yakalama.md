@@ -1,2 +1,2 @@
-# Hata Yakalama
+# Hata Yakalama 🥚
 

@@ -1,2 +1,2 @@
-# Operatörler
+# Operatörler 🥚
 
