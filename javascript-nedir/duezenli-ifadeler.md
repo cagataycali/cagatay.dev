@@ -30,14 +30,14 @@ Kullanım alanlarına birkaç örnek verelim,
 
 ### Adım adım açıklayalım,
 
-* `^` - Girdi başlangıcı.
-* `[^@\s]` - Boşluk `\s` ve `@` karakteri dışındakileri eşleştir.
-* `+` - 1+ kere.
-* `@` - `@` karakterini eşleştir.
-* `[^@\s]+` -  Boşluk `\s` ve `@` karakteri dışındakileri eşleştir. 1+ kere.
-* `\.` - `.` karakterini eşleştir.
-* `\w{2,6}` - 2-6 karakter arasında tüm karakterleri eşleştir \(sayı, alt çizgi veya harf\).
-* `$` - Girdi sonu
+* `^` -&gt; Girdi başlangıcı.
+* `[^@\s]` -&gt; Boşluk `\s` ve `@` karakteri dışındakileri eşleştir.
+* `+` -&gt; 1+ kere.
+* `@` -&gt; `@` karakterini eşleştir.
+* `[^@\s]+` -&gt;  Boşluk `\s` ve `@` karakteri dışındakileri eşleştir. 1+ kere.
+* `\.` -&gt; `.` karakterini eşleştir.
+* `\w{2,6}` -&gt; 2-6 karakter arasında tüm karakterleri eşleştir \(sayı, alt çizgi veya harf\).
+* `$` -&gt; Girdi sonu
 
 ### Gerçek hayatta karşılaşabileceğiniz senaryolar;
 
