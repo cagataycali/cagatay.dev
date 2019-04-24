@@ -18,7 +18,7 @@
   * [Döngüler 🥚](javascript-nedir/doengueler.md)
   * [Tür Dönüşümleri 🥚](javascript-nedir/tuer-doenuesuemleri.md)
   * [Bit Seviyesinde İşlemler 🥚](javascript-nedir/bit-seviyesinde-islemler.md)
-  * [Düzenli İfadeler 🐣](javascript-nedir/duezenli-ifadeler.md)
+  * [Düzenli İfadeler 🐥](javascript-nedir/duezenli-ifadeler.md)
   * [Hata Yakalama 🥚](javascript-nedir/hata-yakalama.md)
   * [Kapsamlar 🥚](javascript-nedir/kapsamlar.md)
   * [Hoising 🥚](javascript-nedir/hoising.md)

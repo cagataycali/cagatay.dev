@@ -4,7 +4,7 @@ description: >-
   konuları bu bölümde işleyeceğiz.
 ---
 
-# Düzenli İfadeler 🐣
+# Düzenli İfadeler 🐥
 
 ![A&#xE7;&#x131;l&#x131;n ben regex biliyorum!](../.gitbook/assets/regex.png)
 
@@ -121,7 +121,25 @@ Regex sonucunda TLD \(top level domain\) kontolü - uzantı kontrolü yapmanız�
 {% endtab %}
 {% endtabs %}
 
+{% hint style="success" %}
+\*\*\*\*[**Detaylı regex kaynağı**](https://github.com/ziishaned/learn-regex/blob/master/translations/README-tr.md) **\(Türkçe\)**
+{% endhint %}
+
 ## Ne Zaman Regex Kullanmamalısın
 
+### Yazılım dili tespiti
 
+Kendi hazırladığın yazılım dilini tespit etmek için regex yazmaya hazırlanıyorsan derin bir nefes al, bu senin için acı verici olabilir.
+
+### Güvenlikle İlgili Kritik Giriş Filtreleme ve Kara Listeler
+
+Hazırladığın platforma kullanıcının gireceği verilerin kontrolünü regex ile kontrol ediyorsan, olası tüm senaryoları öngördüğüne emin olmalısın. Bu durumlarda regex her zaman en pratik çözüm olmayabilir.
+
+### **Performans Öncelikli Bölümler**
+
+Regex eşleştirme hızı senin hazırladığın desene göre sistemi performans darboğazına sokabilir. Bu, çoğu durumda, özellikle girdi kısa ve kesin ise \(e-posta kontrolü\) kullanışlı olabilir. Bununla birlikte hazırladığın regex ifadesi zayıf ise sistemine ek yük bindirebileceğini göz önünde bulundurmalısın.
+
+### Regex Gerektirmeyen Problemler
+
+Regex katarları işlemek için çok verimli bir araç olsa dahi her zaman kullanmanı gerektirmez. Okunabilir, tekrar yazılabilir, modülarize bir şekilde regex ifadelerini yazmak meşakkatli olacak ise lütfen daha az zahmet gerektiren şekilde problemini çöz, bu seni daha az zeki yapmayacaktır.
 
