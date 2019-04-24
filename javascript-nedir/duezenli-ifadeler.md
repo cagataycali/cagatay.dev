@@ -51,7 +51,7 @@ const isValidEmail = input => {
   const regex = /^[^@\s]+@[^@\s]+\.\w{2,6}$/g;
   const result = regex.exec(input)
 
-  // If result is null, no match was found
+  //S onuç null ise eşleşme bulunamadı
   return !!result
 }
 
