@@ -1,2 +1,0 @@
-# Bit Seviyesinde İşlemler 🥚
-
