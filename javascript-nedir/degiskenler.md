@@ -29,5 +29,7 @@ JavaScript'de `var` eski bir değişken tanımlama stilidir, EcmaScript6 ile hay
 
 {% embed url="https://cagatay.me/ecmascript6-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-neden-kullanmal%C4%B1y%C4%B1z-3-a1d092b7d261" %}
 
+{% embed url="https://medium.com/@busramemis/js-var-const-ve-let-ce26bc9818f7" %}
+
 
 
