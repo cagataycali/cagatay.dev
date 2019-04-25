@@ -17,6 +17,7 @@ var person = {
 }
 var country = null
 var city = undefined
+var married = true
 ```
 
 JavaScript type safe\* bir dil değildir, değişkenler istenilen tipte yazılıp direkt kullanılabilir. Yukarıdaki örnekte 
@@ -33,7 +34,9 @@ JavaScript type safe\* bir dil değildir, değişkenler istenilen tipte yazılı
 
 `country` değişkeni bir `null` yani boş değerdir,
 
-`city` değişkeni bir `undefined` yani değişken tanımlanmış ama herhangi bir değer atanmamıştır.
+`city` değişkeni bir `undefined` yani değişken tanımlanmış ama herhangi bir değer atanmamıştır,
+
+`married` değişkeni bir `boolean` türünde değişkendir.
 
 ## Yeni Değişken Tanımlamaları
 
