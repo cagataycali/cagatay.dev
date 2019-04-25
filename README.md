@@ -23,7 +23,7 @@ Temel programlama becerileri, algoritmalar, veri yapıları, kodun kalitesi, kod
 
 ## Semboller
 
-Kitap içeriğinde başlıkların yanında civciv emojileri mevcut, bu emojiler şu anlamlara gelmektedir.
+Kitap içeriğinde başlıkların yanında civciv emojileri mevcut, emojiler şu anlamlara gelmektedir.
 
 | 🥚 | 🐣 | 🐥 |
 | :--- | :--- | :--- |
