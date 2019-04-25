@@ -11,6 +11,12 @@ var age = 18
 var name = "Büşra"
 var gpa = 3.4
 var skills = ["Diving", "Wind Surf"]
+var person = {
+  name: "Büşra",
+  age: 18
+}
+var country = null
+var city = undefined
 ```
 
 JavaScript type safe\* bir dil değildir, değişkenler istenilen tipte yazılıp direkt kullanılabilir. Yukarıdaki örnekte 
@@ -21,7 +27,13 @@ JavaScript type safe\* bir dil değildir, değişkenler istenilen tipte yazılı
 
 `gpa` değişkeni bir `float`, 
 
-`skills` değişkeni ise bir `array` taşıyor.
+`skills` değişkeni ise bir `array` taşıyor,
+
+`person` değişkeni bir `object`, 
+
+`country` değişkeni bir `null` yani boş değerdir,
+
+`city` değişkeni bir `undefined` yani değişken tanımlanmış ama herhangi bir değer atanmamıştır.
 
 ## Yeni Değişken Tanımlamaları
 
