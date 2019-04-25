@@ -20,17 +20,17 @@ var city = undefined
 var married = true
 ```
 
-JavaScript type safe\* bir dil değildir, değişkenler istenilen tipte yazılıp direkt kullanılabilir. Yukarıdaki örnekte 
+JavaScript type safe\* bir dil değildir, değişkenler istenilen tipte yazılıp direkt kullanılabilir. Yukarıdaki örnekte
 
-`age` değişkeni `integer` bir değer taşırken, 
+`age` değişkeni `integer` bir değer taşırken,
 
-`name` değişkeni bir `string` , 
+`name` değişkeni bir `string` ,
 
-`gpa` değişkeni bir `float`, 
+`gpa` değişkeni bir `float`,
 
 `skills` değişkeni ise bir `array` taşıyor,
 
-`person` değişkeni bir `object`, 
+`person` değişkeni bir `object`,
 
 `country` değişkeni bir `null` yani boş değerdir,
 
@@ -42,9 +42,7 @@ JavaScript type safe\* bir dil değildir, değişkenler istenilen tipte yazılı
 
 JavaScript'de `var` eski bir değişken tanımlama stilidir, EcmaScript6 ile hayatımıza `let` ve `const` kavramları girdi. Aşağıdaki makaleden detaylı bilgiye ulaşabilirsiniz, ileri bölümlerde EcmaScript için ayrı bir bölüm olacak.
 
-{% embed url="https://cagatay.me/ecmascript6-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-neden-kullanmal%C4%B1y%C4%B1z-3-a1d092b7d261" %}
+{% embed url="https://cagatay.me/ecmascript6-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-neden-kullanmal%C4%B1y%C4%B1z-3-a1d092b7d261" caption="" %}
 
-{% embed url="https://medium.com/@busramemis/js-var-const-ve-let-ce26bc9818f7" %}
-
-
+{% embed url="https://medium.com/@busramemis/js-var-const-ve-let-ce26bc9818f7" caption="" %}
 

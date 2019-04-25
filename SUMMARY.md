@@ -32,6 +32,16 @@
     * [Queue 🥚](programlama-temelleri/veri-yapilari/queue.md)
     * [Tree 🥚](programlama-temelleri/veri-yapilari/tree.md)
     * [Graph 🥚](programlama-temelleri/veri-yapilari/graph.md)
+  * [Programlama Paradigmaları 🥚](programlama-temelleri/programlama-paradigmalari/README.md)
+    * [Imperative 🥚](programlama-temelleri/programlama-paradigmalari/imperative.md)
+    * [Declarative 🥚](programlama-temelleri/programlama-paradigmalari/declarative.md)
+    * [Procedural 🥚](programlama-temelleri/programlama-paradigmalari/procedural.md)
+    * [Object Oriented 🥚](programlama-temelleri/programlama-paradigmalari/object-oriented.md)
+    * [Functional 🥚](programlama-temelleri/programlama-paradigmalari/functional.md)
+    * [Event-Driven 🥚](programlama-temelleri/programlama-paradigmalari/event-driven.md)
+    * [Symbolic 🥚](programlama-temelleri/programlama-paradigmalari/symbolic.md)
+    * [Reactive 🥚](programlama-temelleri/programlama-paradigmalari/reactive-programlama.md)
+    * [Quantum 🥚](programlama-temelleri/programlama-paradigmalari/quantum.md)
 
 ## Kullanım Alanları
 
