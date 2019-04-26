@@ -20,7 +20,7 @@
   * [Düzenli İfadeler 🐥](javascript-nedir/duezenli-ifadeler.md)
   * [Hata Yakalama 🥚](javascript-nedir/hata-yakalama.md)
   * [Kapsamlar 🥚](javascript-nedir/kapsamlar.md)
-  * [Hoising 🥚](javascript-nedir/hoising.md)
+  * [Hoisting 🥚](javascript-nedir/hoising.md)
   * [Strict Direktifi 🥚](javascript-nedir/strict-direktifi.md)
 * [Programlama Temelleri 🥚](programlama-temelleri/README.md)
   * [Algoritmalar 🥚](programlama-temelleri/algoritmalar/README.md)
