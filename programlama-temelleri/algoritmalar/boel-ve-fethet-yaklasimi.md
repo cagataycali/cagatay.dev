@@ -1,0 +1,2 @@
+# Böl Ve Fethet Yaklaşımı 🥚
+
