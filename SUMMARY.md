@@ -55,6 +55,7 @@
     * [Structural 🥚](programlama-temelleri/tasarim-desenleri/singleton.md)
     * [Behavioral 🥚](programlama-temelleri/tasarim-desenleri/behavioral.md)
   * [Veritabanları 🥚](programlama-temelleri/veritabanlari.md)
+  * [Versiyon Kontrol Sistemleri 🥚](programlama-temelleri/versiyon-kontrol-sistemleri.md)
 
 ## Kullanım Alanları
 
