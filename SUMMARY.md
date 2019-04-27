@@ -42,6 +42,11 @@
     * [Symbolic 🥚](programlama-temelleri/programlama-paradigmalari/symbolic.md)
     * [Reactive 🥚](programlama-temelleri/programlama-paradigmalari/reactive-programlama.md)
     * [Quantum 🥚](programlama-temelleri/programlama-paradigmalari/quantum.md)
+  * [Tasarım Desenleri 🥚](programlama-temelleri/tasarim-desenleri/README.md)
+    * [Creational 🥚](programlama-temelleri/tasarim-desenleri/creational.md)
+    * [Structural 🥚](programlama-temelleri/tasarim-desenleri/singleton.md)
+    * [Behavioral 🥚](programlama-temelleri/tasarim-desenleri/behavioral.md)
+  * [Veritabanları 🥚](programlama-temelleri/veritabanlari.md)
 
 ## Kullanım Alanları
 
