@@ -77,6 +77,8 @@ Değişkenlere tanımlanan sayısal verileri doğrudan kullanarak matematiksel i
 
 
 
+{% embed url="https://codepen.io/busradanisman/pen/axMGXR" %}
+
 
 
 
