@@ -2,7 +2,7 @@
 description: JavaScript dilinde bulunan veri tiplerini ve kullanımlarını göreceğiz.
 ---
 
-# Veri Tipleri 🥚
+# Veri Tipleri 🐥
 
 Her programlama dilinde olduğu gibi JavaScript dilinde de yerleşik veri tipleri vardır, ancak bunlar bir dilden diğerine göre farklılık gösterebilir. 
 
@@ -23,6 +23,19 @@ JavaScript dilinde, ilkel veri tipi \(ilkel değer\) nesne olmayan ve methodu ol
 * Symbol \( ECMAScript 6 \) ve daha fazlası...
 
 İlkel değerler, değişmez veri tipi olarak bilinir çünkü oluşturulduktan sonra değiştirmenin yolu yoktur. İlkel değer ile ilkel bir değer atanan değişkenin karıştırılmaması önemlidir. Değişken yeni bir değere atanabilir ancak mevcut değer nesnelerin, dizilerin ve fonksiyonların değiştirilebileceği şekillerde değiştirilemez.
+
+Bir değişkenin hangi veri tipinde olduğunu şu şekilde öğrenebiliriz:
+
+```javascript
+typeof 'cagatay' // string
+typeof 23 // number
+typeof {} // object
+typeof true // boolean
+typeof [] // object
+
+typeof null // object :)
+typeof NaN // number :)
+```
 
 
 

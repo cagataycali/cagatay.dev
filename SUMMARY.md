@@ -5,7 +5,7 @@
   * [Çalışma Ortamı 🐥](javascript-nedir/calisma-ortami.md)
   * [Değişkenler 🐣](javascript-nedir/degiskenler.md)
   * [Yorum Satırları 🐥](javascript-nedir/yorum-satirlari.md)
-  * [Veri Tipleri 🥚](javascript-nedir/veri-tipleri.md)
+  * [Veri Tipleri 🐥](javascript-nedir/veri-tipleri.md)
   * [Sayılar 🐥](javascript-nedir/sayilar.md)
   * [Olaylar 🥚](javascript-nedir/olaylar.md)
   * [Katarlar 🥚](javascript-nedir/katarlar.md)
