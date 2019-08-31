@@ -3,7 +3,7 @@
 * [JavaScript ile Programlamaya Giriş 🐣](README.md)
 * [JavaScript Nedir? 🥚](javascript-nedir/README.md)
   * [Çalışma Ortamı 🐥](javascript-nedir/calisma-ortami.md)
-  * [Değişkenler 🐣](javascript-nedir/degiskenler.md)
+  * [Değişkenler 🐥](javascript-nedir/degiskenler.md)
   * [Yorum Satırları 🐥](javascript-nedir/yorum-satirlari.md)
   * [Veri Tipleri 🐥](javascript-nedir/veri-tipleri.md)
   * [Sayılar 🐥](javascript-nedir/sayilar.md)
