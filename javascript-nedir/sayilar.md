@@ -1,45 +1,45 @@
-# Sayılar 🥚
+# Sayılar 🐥
 
 #### Numbers \( Sayılar \)
 
-```text
-let n = 175
-n = 17.535
+```javascript
+let n = 175 // Tamsayı olabilir, int
+n = 17.535 // Ondalıklı sayı olabilir, floating point
 ```
 
-Sayı tipi integer ve float point sayılarını temsil eder.
+Sayı tipi integer ve floating point sayılarını temsil eder.
 
 {% tabs %}
 {% tab title="Çarpma" %}
-```text
-var a = 17;
-var b = 5;
+```javascript
+const a = 17;
+const b = 5;
 
-var total = a * b;
+const total = a * b;
 
-console.log(total);
-console.log(typeof total);
+console.log(total); // 85
+console.log(typeof total); // number
 ```
 {% endtab %}
 
 {% tab title="Bölme" %}
-```text
-var a = 255;
-var b = 14;
+```javascript
+const a = 255;
+const b = 14;
 
-var total = a / b;
+const total = a / b; // 
 
-console.log(total);
-console.log(typeof total);
+console.log(total); // 18.214285714285715
+console.log(typeof total); // number
 ```
 {% endtab %}
 
 {% tab title="Toplama" %}
-```text
-var a = -28;
-var b = 84;
+```javascript
+const a = -28;
+const b = 84;
 
-var total = a + b;
+const total = a + b;
 
 console.log(total);
 console.log(typeof total);
@@ -47,11 +47,11 @@ console.log(typeof total);
 {% endtab %}
 
 {% tab title="Çıkarma" %}
-```text
-var a = 175;
-var b = 53;
+```javascript
+const a = 175;
+const b = 53;
 
-var total = a - b;
+const total = a - b;
 
 console.log(total);
 console.log(typeof total);

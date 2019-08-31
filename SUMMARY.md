@@ -6,7 +6,7 @@
   * [Değişkenler 🐣](javascript-nedir/degiskenler.md)
   * [Yorum Satırları 🐥](javascript-nedir/yorum-satirlari.md)
   * [Veri Tipleri 🥚](javascript-nedir/veri-tipleri.md)
-  * [Sayılar 🥚](javascript-nedir/sayilar.md)
+  * [Sayılar 🐥](javascript-nedir/sayilar.md)
   * [Olaylar 🥚](javascript-nedir/olaylar.md)
   * [Katarlar 🥚](javascript-nedir/katarlar.md)
   * [Operatörler 🥚](javascript-nedir/operatoerler.md)
